@@ -23,4 +23,4 @@ public class HowToPlayActivity extends AppCompatActivity {
         Intent intent = new Intent(HowToPlayActivity.this, PlayActivity.class);
         startActivity(intent);
     }
-}
+} 
